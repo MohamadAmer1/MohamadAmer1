@@ -39,7 +39,7 @@ I'm currently expanding my skills toward full-stack development and looking to g
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square))
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square)
 
 ---
 
