@@ -1,5 +1,6 @@
-# 👋 About Me
+# About Me
 
+Hello 👋...
 I'm Mohamad Amer, a fresh Electrical Engineering graduate from Bar-Ilan University, specialized in Hardware and VLSI Circuits.
 
 I have experience with hardware design and circuit simulation using Cadence Virtuoso, and I also work with programming and scripting languages such as Verilog, TCL, C, C++, Python, R, and MATLAB.
