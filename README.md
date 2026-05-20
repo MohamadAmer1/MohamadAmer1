@@ -3,7 +3,13 @@
 Hello 👋...
 I'm Mohamad Amer, a fresh Electrical Engineering graduate from Bar-Ilan University, specialized in Hardware and VLSI Circuits.
 
-I have experience with hardware design and circuit simulation using Cadence Virtuoso, and I also work with programming and scripting languages such as Verilog, TCL, C, C++, Python, R, and MATLAB.
+Strong analytical and mathematical background, experienced in multidisciplinary teamwork, project execution, planning, and meeting deadlines
+
+Demonstrated ability to take ownership of tasks, deliver high-quality engineering results, and continuously improve through self-learning.
+
+Excellent time-management skills, creative approach to solving technical challenges, and ability to perform in dynamic, fast-paced environments.
+
+High self-learning ability, dynamic, excellent communication and interpersonal skills.
 
 I'm currently expanding my skills toward full-stack development and looking to grow as an engineer/developer in the high-tech field.
 
